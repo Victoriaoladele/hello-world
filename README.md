@@ -1,2 +1,4 @@
 # hello-world
-For the GitHub Flow 
+This is for the GitHub Flow 
+
+I am a second year Electronic and Computer Engineering Student 
